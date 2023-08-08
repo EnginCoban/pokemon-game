@@ -1,7 +1,7 @@
 package pokemon;
 
 public class Glumanda extends Pokemon {
-	//Constructor
+		//Constructor
 		public Glumanda(int health) {
 			super(health);
 			this.setName("Glumanda");
