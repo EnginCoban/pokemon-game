@@ -1,7 +1,7 @@
 package pokemon;
 
 public class Person {
-	//Attributes
+		//Attributes
 		private String name;
 		private String city;
 		private int age;
