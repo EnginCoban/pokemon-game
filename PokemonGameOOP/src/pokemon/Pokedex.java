@@ -3,7 +3,7 @@ package pokemon;
 import java.util.Scanner;
 
 public class Pokedex {
-	//Attributes
+		//Attributes
 		private static final int YES = 1;
 		private static final int NO = 0;
 		private static final int SHIGGY = 1;
