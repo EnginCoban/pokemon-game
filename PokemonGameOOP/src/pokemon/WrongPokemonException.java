@@ -1,7 +1,8 @@
 package pokemon;
 
 public class WrongPokemonException extends Exception {
-	WrongPokemonException(String message){
+	//constructor
+	public WrongPokemonException(String message){
 		super(message);
 		
 	}
