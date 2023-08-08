@@ -3,7 +3,7 @@ package pokemon;
 import java.util.Scanner;
 
 public class Pokemon {
-	// Attributes
+		// Attributes
 		private static final int CONTINUE = 1;
 		private static final int SWITCH = 3;
 		private static final int ESCAPE = 2;
