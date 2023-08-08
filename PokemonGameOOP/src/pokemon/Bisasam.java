@@ -1,7 +1,7 @@
 package pokemon;
 
 public class Bisasam extends Pokemon {
-	//Constructor
+		//Constructor
 		public Bisasam(int health) {
 			super(health);
 			this.setName("Bisasam");
