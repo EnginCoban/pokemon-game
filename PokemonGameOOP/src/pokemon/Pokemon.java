@@ -2,7 +2,7 @@ package pokemon;
 
 import java.util.Scanner;
 
-public class Pokemon {
+public abstract class Pokemon {
 		// Attributes
 		private static final int CONTINUE = 1;
 		private static final int SWITCH = 3;
